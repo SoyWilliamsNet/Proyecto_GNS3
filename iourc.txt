@@ -1,0 +1,2 @@
+[license]
+gns3vm = 73635fd3b0a13ad0;
